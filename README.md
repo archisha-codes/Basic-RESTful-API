@@ -12,6 +12,7 @@ write HTTP://localhost:8000/api/users-->under Body --> in x-www-form-urlencoded 
 in key create fields as first_name ,last_name and whatever u want and write values .
 APPLY MIDDLEWARES
 app.use(express.urlencoded({ extended : false}));  ->whenever some form data will be sent this code will put it into the Body.
+
 <img width="400" height="400" alt="Screenshot 2025-08-02 004345" src="https://github.com/user-attachments/assets/121cf3f3-62ef-4147-8c61-670632e6c6d6" />
 
 POST
