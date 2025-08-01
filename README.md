@@ -12,14 +12,14 @@ write HTTP://localhost:8000/api/users-->under Body --> in x-www-form-urlencoded 
 in key create fields as first_name ,last_name and whatever u want and write values .
 APPLY MIDDLEWARES
 app.use(express.urlencoded({ extended : false}));  ->whenever some form data will be sent this code will put it into the Body.
-<img width="881" height="883" alt="Screenshot 2025-08-02 004345" src="https://github.com/user-attachments/assets/121cf3f3-62ef-4147-8c61-670632e6c6d6" />
+<img width="400" height="400" alt="Screenshot 2025-08-02 004345" src="https://github.com/user-attachments/assets/121cf3f3-62ef-4147-8c61-670632e6c6d6" />
 
 POST
-<img width="863" height="208" alt="Screenshot 2025-08-02 010655" src="https://github.com/user-attachments/assets/d9ff3f45-3492-4555-a72f-fb40c2426b72" />
-<img width="718" height="646" alt="Screenshot 2025-08-02 010423" src="https://github.com/user-attachments/assets/8b0d6337-70d0-4e36-9b18-acfc2e1cc4ed" />
+<img width="400" height="208" alt="Screenshot 2025-08-02 010655" src="https://github.com/user-attachments/assets/d9ff3f45-3492-4555-a72f-fb40c2426b72" />
+<img width="400" height="200" alt="Screenshot 2025-08-02 010423" src="https://github.com/user-attachments/assets/8b0d6337-70d0-4e36-9b18-acfc2e1cc4ed" />
 
 PATCH
-<img width="1158" height="791" alt="Screenshot 2025-08-02 012346" src="https://github.com/user-attachments/assets/4f547d5e-50cf-4599-a6c0-1230396800aa" />
+<img width="500" height="300" alt="Screenshot 2025-08-02 012346" src="https://github.com/user-attachments/assets/4f547d5e-50cf-4599-a6c0-1230396800aa" />
 
 DELETE
-<img width="1122" height="543" alt="Screenshot 2025-08-02 013236" src="https://github.com/user-attachments/assets/a4ba37ab-e0b2-4a0d-b71a-ff7e3ac8efad" />
+<img width="400" height="200" alt="Screenshot 2025-08-02 013236" src="https://github.com/user-attachments/assets/a4ba37ab-e0b2-4a0d-b71a-ff7e3ac8efad" />
