@@ -17,8 +17,8 @@ app.use(express.urlencoded({ extended : false}));  ->whenever some form data wil
 <img width="400" height="400" alt="Screenshot 2025-08-02 004345" src="https://github.com/user-attachments/assets/121cf3f3-62ef-4147-8c61-670632e6c6d6" />
 
 POST
-<img width="400" height="208" alt="Screenshot 2025-08-02 010655" src="https://github.com/user-attachments/assets/d9ff3f45-3492-4555-a72f-fb40c2426b72" />
-<img width="400" height="200" alt="Screenshot 2025-08-02 010423" src="https://github.com/user-attachments/assets/8b0d6337-70d0-4e36-9b18-acfc2e1cc4ed" />
+<img width="500" height="260" alt="Screenshot 2025-08-02 010655" src="https://github.com/user-attachments/assets/d9ff3f45-3492-4555-a72f-fb40c2426b72" />
+<img width="400" height="300" alt="Screenshot 2025-08-02 010423" src="https://github.com/user-attachments/assets/8b0d6337-70d0-4e36-9b18-acfc2e1cc4ed" />
 
 PATCH
 <img width="500" height="300" alt="Screenshot 2025-08-02 012346" src="https://github.com/user-attachments/assets/4f547d5e-50cf-4599-a6c0-1230396800aa" />
