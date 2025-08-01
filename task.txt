@@ -1,0 +1,15 @@
+REST API - JSON  (HYBRID SERVER -Supports browsers as well as mobile apps)
+
+GET /users - List all users (HTML)
+GET /api/users - List all users (JSON)
+
+GET /api/users/1 - Get single user with id 1
+GET /api/users/2 - Get single user with id 2
+DYNAMIC PATH PARAMETERS
+GET/api/users/:id --> :id means this id is dynamic and it can be any number 
+
+POST /api/users - Add user/create new user
+
+PATCH /api/users/1 - Edit the user with id 1(Partially update user)
+
+DELETE /api/users/1 - Delete user with id 1
