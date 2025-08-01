@@ -10,6 +10,7 @@
 *for post req*
 write HTTP://localhost:8000/api/users-->under Body --> in x-www-form-urlencoded -->we will add new user here 
 in key create fields as first_name ,last_name and whatever u want and write values .
+
 APPLY MIDDLEWARES
 app.use(express.urlencoded({ extended : false}));  ->whenever some form data will be sent this code will put it into the Body.
 
