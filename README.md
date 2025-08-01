@@ -1,4 +1,17 @@
-# Basic-RESTful-API
+# 🔧 A Node.js Express RESTful API Server
+✅ Server
+A server is any program that listens for requests (from a browser, Postman, or other client) and sends back responses. In this case, you're using Node.js to run the server.
+
+✅ Express.js
+A minimal web framework for Node.js.
+It makes it easy to set up routes like GET, POST, PATCH, DELETE.
+
+weve written things like:
+app.get("/api/users", ...)
+app.post("/api/users", ...)
+These define how this server responds to different types of requests.
+
+
 1-We required n number of users so using Fake Data API: https://www.mockaroo.com/ to generate fake 1000 users in JSON format for now 2-TASKS REST API - JSON (HYBRID SERVER -Supports browsers as well as mobile apps) GET /users - List all users (HTML) GET /api/users - List all users (JSON) GET /api/users/1 - Get single user with id 1 GET /api/users/2 - Get single user with id 2 //if with /api then throws a JSON data, otherwise an HTML data POST /api/users - Add user/create new user PATCH /api/users/1 - Edit the user with id 1(Partially update user) DELETE /api/users/1 - Delete user with id 1
 
 3-go to browser and type http://localhost:8000/users to get the list of all the users.
