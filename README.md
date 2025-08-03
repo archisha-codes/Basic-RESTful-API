@@ -38,3 +38,5 @@ PATCH
 
 DELETE
 <img width="400" height="200" alt="Screenshot 2025-08-02 013236" src="https://github.com/user-attachments/assets/a4ba37ab-e0b2-4a0d-b71a-ff7e3ac8efad" />
+
+here we needed to start the server everytime we fixed or changed something in the code so to automatically start the server use nodemon in package.json and to install write npm install nodemon in console .
